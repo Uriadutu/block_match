@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class PauseManager : MonoBehaviour
 {
     public static PauseManager Instance;
